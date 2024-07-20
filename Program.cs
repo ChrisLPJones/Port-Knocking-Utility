@@ -32,7 +32,7 @@ namespace Knock
 
                     IPAddress address = ResolveHost(host);
                     int[] sshPorts = { 7000, 8000, 9000 };
-                    int[] rdpPorts = { 9000, 8000, 7000 };
+                    int[] rdpPorts = { 4000, 5000, 6000 };
                     bool alive = true;
 
                     while (alive)
