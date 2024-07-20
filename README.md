@@ -77,13 +77,13 @@ Port Knocking Utility is a C# application that demonstrates port knocking for ne
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/ChrisLPJones/Port-Knocking-Utility.git
+    git clone https://github.com/ChrisLPJones/PortKnockingUtility.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd Port-Knocking-Utility
+    cd PortKnockingUtility
     ```
 
 3. **Restore the project dependencies:**
