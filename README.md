@@ -1,6 +1,6 @@
 # Port Knocking Utility
 
-Port Knocking is a C# application that demonstrates port knocking for network services. The application performs a secure login and then allows the user to connect to a server using SSH, SFTP, or RDP after performing port knocking to open the necessary ports.
+Port Knocking Utility is a C# application that demonstrates port knocking for network services. The application performs a secure login and then allows the user to connect to a server using SSH, SFTP, or RDP after performing port knocking to open the necessary ports.
 
 ## Features
 
